@@ -1,8 +1,14 @@
 ## Hi there 👋
 
-My name is Victor, and I am a third year Mathematics and Computer Science student minoring in Cognitive Science at UC San Diego. I am currently a Software Developer Research Intern at the UCSD Design Lab
+My name is Victor, and I am a third year Mathematics and Computer Science student minoring in Cognitive Science at UC San Diego. I am a full stack developer born and raised in the San Francisco Bay Area, outside of my work I enjoy cooking, exploring new places, and playing basketball!
 
-## Tools and Technologies
+## Programming Languages and Technologies
+
+## Work Experience
+
+## Clubs
+
+## Projects
 
 <!--
 **comnk/comnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
