@@ -1,10 +1,19 @@
-## Hi there 👋
+<h1>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 My name is Victor!
 
-- a third year Mathematics and Computer Science student minoring in Cognitive Science at UC San Diego
-- a full stack developer born and raised in the San Francisco Bay Area
-- interested in the intersection of software engineering, artificial intelligence, design, and human computer interaction.
+- I am a third year Mathematics and Computer Science student minoring in Cognitive Science at UC San Diego
+- I am a full stack developer born and raised in the San Francisco Bay Area
+- I am interested in the intersection of software engineering, artificial intelligence, design, and human computer interaction.
+
+<div id="badges">
+  <a href="https://linkedin.com/in/hsiaovictor">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://devpost.com/comnk">
+    <img src="https://img.shields.io/badge/Devpost-34D399?style=for-the-badge&logo=devpost&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <!--
 ## Programming Languages and Technologies
