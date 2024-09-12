@@ -6,8 +6,6 @@ My name is Victor!
 - a full stack developer born and raised in the San Francisco Bay Area
 - interested in the intersection of software engineering, artificial intelligence, design, and human computer interaction.
 
-Outside of my work I enjoy cooking, exploring new places, and playing basketball!
-
 <!--
 ## Programming Languages and Technologies
 
