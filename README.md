@@ -9,7 +9,8 @@
 </div>
 <h2 align="left">About Me: </h2>
 
-- I am a third year Mathematics and Computer Science student minoring in Cognitive Science at UC San Diego
+- I will be pursuing my master's degree in Computer Science at the University of Texas, Austin
+- I graduated with my bachelor's degree in Mathematics and Computer Science from UC San Diego
 - I am a full stack developer born and raised in the San Francisco Bay Area
 - I am interested in the intersection of software engineering, artificial intelligence, design, and human computer interaction.
 
