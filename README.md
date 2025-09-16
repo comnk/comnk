@@ -9,6 +9,7 @@
 </div>
 <h2 align="left">About Me: </h2>
 
+- I am a first year master's student studying Computer Science at the University of Texas at Austin
 - I graduated with my bachelor's degree in Mathematics and Computer Science from UC San Diego
 - I am a full stack developer born and raised in the San Francisco Bay Area
 - I am interested in the intersection of software engineering, artificial intelligence, design, and human computer interaction.
