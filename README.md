@@ -9,10 +9,12 @@
 </div>
 <h2 align="left">About Me: </h2>
 
-- I am a first year master's student studying Computer Science at the University of Texas at Austin
-- I graduated with my bachelor's degree in Mathematics and Computer Science from UC San Diego
-- I am a full stack developer born and raised in the San Francisco Bay Area
-- I am interested in the intersection of software engineering, artificial intelligence, design, and human computer interaction.
+- I'm Victor, a first-year master's student in Computer Science at the University of Texas at Austin  
+- I graduated from UC San Diego with a bachelor's degree in Mathematics and Computer Science  
+- I focus on backend engineering, distributed systems, cloud infrastructure, and AI systems engineering  
+- I enjoy building scalable software systems, data pipelines, and AI-powered applications  
+- My experience spans backend services, cloud platforms, and AI powered systems involving machine learning, agentic AI, and automation  
+- I'm particularly interested in building systems at the intersection of software infrastructure and applied AI
 
 <!--
 ## Programming Languages and Technologies
